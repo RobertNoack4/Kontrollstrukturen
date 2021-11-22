@@ -111,7 +111,6 @@ namespace Kontrollstrukturen
                 {
                     return false;
                 }
-            
 
             return true;
         }
